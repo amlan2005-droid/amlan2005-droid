@@ -2,7 +2,7 @@
 
 <img src="./terminal.png" width="950" alt="Amlan terminal profile"/>
 
-# A M L A N
+# A M L A N MUKHERJEE
 
 ### B.Tech CSE (AI/ML) | Aspiring AI Engineer
 
