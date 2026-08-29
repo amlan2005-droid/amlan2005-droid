@@ -1,61 +1,96 @@
----
+<div align="center">
 
-## `$ ls ./projects`
+<img src="./terminal.png" width="950" alt="Amlan terminal profile"/>
 
-### 🧠 GI Disease Classification
+# A M L A N
 
-> Multi-model deep learning framework for GI disease image classification.
+### B.Tech CSE (AI/ML) | Aspiring AI Engineer
 
-**Tech:** `CNN` `Vision Transformer` `XGBoost` `Graph Attention Network`
+Building practical AI systems with Machine Learning, Deep Learning, Computer Vision, RAG and Backend Development.
 
----
-
-### 🏥 AI Healthcare Navigator
-
-> AI-powered healthcare assistant for prescription understanding and intelligent search.
-
-**Tech:** `OCR` `Information Extraction` `BM25` `Semantic Search`
+</div>
 
 ---
 
-### 🔎 AI Document Search
+## `$ whoami`
 
-> Semantic document search and question-answering system using Retrieval-Augmented Generation.
+```text
+Name       : Amlan
+Education  : B.Tech CSE (AI/ML)
+Role       : Aspiring AI Engineer
+Focus      : AI · Machine Learning · Computer Vision · Backend
+Currently  : Building AI projects
+$ ls ./projects
+🧠 GI Disease Classification
 
-**Tech:** `Sentence Transformers` `FAISS` `RAG` `FastAPI`
+Multi-model deep learning framework for GI disease image classification.
 
----
+Tech: CNN Vision Transformer XGBoost Graph Attention Network
 
-### 💼 Career Assistant
+🏥 AI Healthcare Navigator
 
-> AI-powered platform for resume analysis, skill extraction, job matching and interview preparation.
+AI-powered healthcare assistant for prescription understanding and intelligent search.
 
-**Tech:** `LangChain` `Gemini` `RAG` `FastAPI` `React` `ChromaDB` `NER`
+Tech: OCR Information Extraction BM25 Semantic Search
 
----
+🔎 AI Document Search
 
-## `$ tech-stack`
+Semantic document search and question-answering system using Retrieval-Augmented Generation.
 
-### Languages
+Tech: Sentence Transformers FAISS RAG FastAPI
 
-`Python` `SQL` `Java`
+💼 Career Assistant
 
-### Machine Learning & AI
+AI-powered platform for resume analysis, skill extraction, job matching and interview preparation.
 
-`TensorFlow` `Keras` `Scikit-learn` `Deep Learning`
+Tech: LangChain Gemini RAG FastAPI React ChromaDB NER
 
-### Computer Vision
+$ tech-stack
 
-`CNN` `Vision Transformer` `OpenCV` `Image Classification`
+Languages
 
-### Generative AI
+Python SQL Java
 
-`RAG` `LangChain` `Gemini` `FAISS` `BM25` `Semantic Search`
+Machine Learning
 
-### Backend
+TensorFlow Keras Scikit-learn Deep Learning
 
-`FastAPI` `REST APIs` `SQLite` `SQLAlchemy`
+Computer Vision
 
-### Tools
+CNN Vision Transformer OpenCV Image Classification
 
-`Git` `GitHub` `VS Code`
+Generative AI
+
+RAG LangChain Gemini FAISS BM25 Semantic Search
+
+Backend
+
+FastAPI REST APIs SQLite SQLAlchemy
+
+Tools
+
+Git GitHub VS Code
+
+$ current_focus
+[██████████████████░░] Deep Learning
+[████████████████░░░░] Computer Vision
+[███████████████░░░░░] RAG / LLM Systems
+[██████████████░░░░░░] Backend Development
+[████████████░░░░░░░░] System Design
+[███████████░░░░░░░░░] DSA
+$ ps aux | grep amlan
+PID     STATUS      PROCESS
+
+1001    RUNNING     GI Disease Classification
+1002    RUNNING     AI Healthcare Navigator
+1003    RUNNING     AI Document Search / RAG
+1004    RUNNING     Career Assistant
+1005    RUNNING     Learning System Design
+$ connect
+<div align="center"> <a href="https://github.com/amlan2005-droid"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
+<div align="center">
+
+amlan@github ~ $ echo "keep building."
+
+🚀 Keep Building.
+</div> 
